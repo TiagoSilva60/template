@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header{
@@ -20,12 +21,25 @@ main{
 article{
     background-color: black;
     width: 100%;
-    padding: 40px;
+    height: auto;
+    display: block;
+    float: left;
 }
 
 section{
+    width: 70%;
     color: white;
-    font-size: 20px;
+    font-size: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+
+section img{
+    float: left;
+    width: 30%;
+    margin-bottom: 3px;
+    margin-right: 3px;
 }
 
 aside{
