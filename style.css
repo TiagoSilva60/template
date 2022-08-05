@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: aqua;
+    width: 100%;
+    padding: 100px;
+}
+
+main{
+    background-color: blue;
+    width: 70%;
+    padding: 100px;
+    float: left;
+}
+
+article{
+    background-color: black;
+    width: 100%;
+    padding: 40px;
+}
+
+section{
+    color: white;
+    font-size: 20px;
+}
+
+aside{
+    background-color: yellow;
+    width: 30%;
+    padding: 100px;
+    float: left;
+}
+
+footer{
+    background-color: brown;
+    width: 100%;
+    float: left;
+    padding: 100px;
+}
+
