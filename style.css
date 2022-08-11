@@ -33,6 +33,7 @@ aside{
     width: 30%;
     padding: 100px;
     float: left;
+
 }
 
 footer{
@@ -40,5 +41,27 @@ footer{
     width: 100%;
     float: left;
     padding: 100px;
+}
+
+input.tg2{
+    margin-top: 30px;
+}
+
+ul.tg1{
+    border-style: solid;
+    padding: 25px;
+    width: 250px;
+    
+}
+
+h1.tg3{
+    margin-top: 10px;
+    color: white;
+    width: 250px;
+    background-color: black;
+}
+
+section.tg5{
+    display: flex;
 }
 
