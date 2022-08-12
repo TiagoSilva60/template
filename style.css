@@ -24,9 +24,39 @@ article{
     padding: 25px;
 }
 
+
 .destaque{
     width: 100%;
     background-color: rgb(130, 130, 130);
+}
+#ataque-hacker{
+    color: white;
+    font-size: 15px;
+}
+
+#ataque-hacker h1{
+    background-color: gray;
+    font-size: 17px;
+    margin-bottom: 8px;
+}
+
+#ataque-hacker h2{
+    font-size: 17px;
+    margin-bottom: 5px;
+}
+
+button{
+    float: right;
+}
+
+#ataque-hacker h3{
+    margin-top: 25px;
+    font-size: 17px;
+}
+
+#ataque-hacker ul{
+    margin-left: 8px;
+    margin-top: 8px;
 }
 
 .box{
