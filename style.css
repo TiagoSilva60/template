@@ -26,14 +26,16 @@ article{
 
 .destaque{
     width: 100%;
-    background-color: rgb(110,110,110);
+    background-color: rgb(130, 130, 130);
 }
 
 .box{
     width: 49%;
-    background-color: rgb(110,110,110);
+    background-color: rgb(130,130,130);
     padding: 10px;
 }
+
+
 
 aside{
     background-color: yellow;
@@ -47,10 +49,6 @@ footer{
     width: 100%;
     padding: 100px;
 }
-
-
-
-/* BONINI */
 
 .content-box{
     width: 100%;
@@ -97,6 +95,31 @@ footer{
 
 .content-single-destaque p{
     font-size: 15px;
-    color: rgb(150,150,150);
+    color: rgb(255, 255, 255);
     line-height: 24px;
+}
+
+.button-box{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: end;
+}
+
+.box h1{
+    background-color: black;
+    color: white;
+}
+
+.box h2{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.box p{
+    color: white;
+}
+
+.box ul{
+    margin-left: 15px;
+    font-weight: bold;
 }
