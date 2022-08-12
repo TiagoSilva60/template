@@ -70,8 +70,9 @@ button{
 aside{
     background-color: white;
     width: 30%;
-    padding: 100px;
+    padding: 5%;
     float: left;
+
 }
 
 footer{
@@ -79,6 +80,7 @@ footer{
     width: 100%;
     padding: 100px;
 }
+
 
 .content-box{
     width: 100%;
@@ -153,4 +155,37 @@ footer{
 .box ul{
     margin-left: 15px;
     font-weight: bold;
+}
+input.tg2{
+    margin-top: 30px;
+    padding: 1%;
+    width: 98%;
+    text-align: center;
+}
+
+ul.tg1{
+    border-style: solid;
+    padding: 25px;
+    width: 250px;
+    
+}
+
+h1.tg3{
+    margin-top: 10px;
+    color: white;
+    width: 250px;
+    background-color: black;
+}
+
+
+
+div.box img{
+    margin-top: 20px;
+    width: 45%;
+    margin-right: 5%;
+    display: block;
+    height: 50px;
+    float: left;
+    height: 125px;
+
 }
