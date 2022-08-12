@@ -31,7 +31,7 @@ section{
 aside{
     background-color: yellow;
     width: 30%;
-    padding: 100px;
+    padding: 5%;
     float: left;
 
 }
@@ -45,6 +45,9 @@ footer{
 
 input.tg2{
     margin-top: 30px;
+    padding: 1%;
+    width: 100%;
+    text-align: center;
 }
 
 ul.tg1{
@@ -61,7 +64,14 @@ h1.tg3{
     background-color: black;
 }
 
-section.tg5{
-    display: flex;
-}
 
+
+div.box img{
+    margin-top: 20px;
+    width: 45%;
+    margin-right: 5%;
+    display: block;
+    height: 50px;
+    float: left;
+    height: 125px;
+}
