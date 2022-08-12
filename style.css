@@ -11,9 +11,10 @@
 
 header{
     background-color: white;
-  background-color: gray;
+    background-color: gray;
     width: 100%;
     padding-top: 100px;
+    
 }
 
 main{
@@ -73,7 +74,8 @@ button{
 
 
 aside{
-    background-color: white;
+    background-color: violet;
+    margin-top: 54px;
     width: 30%;
     padding: 5%;
     float: left;
@@ -184,7 +186,7 @@ h1.tg3{
 
 
 
-div.box img{
+div.box2 img{
     margin-top: 20px;
     width: 45%;
     margin-right: 5%;
